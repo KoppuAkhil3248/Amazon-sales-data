@@ -1,8 +1,10 @@
 Amazon Sales Data Analysis Project
 
+
 Project Overview
 
 This project dives into analyzing Amazon sales data using Microsoft Excel. The aim is to uncover insights about sales trends, customer behavior, and product performance to help make smarter business decisions. The project includes data cleaning, visualization, and in-depth analysis.
+
 
 Key Objectives
 
@@ -13,6 +15,7 @@ Use Excel tools to analyze data effectively.
 Build visualizations to highlight trends and insights.
 
 Provide actionable recommendations to boost sales strategies.
+
 
 Dataset Description
 
@@ -38,6 +41,7 @@ Customer Name: Name of the customer.
 
 Region: Geographic area where the order was shipped.
 
+
 Key Features & Techniques
 
 Data Cleaning
@@ -45,6 +49,7 @@ Data Cleaning
 Removed duplicates and missing values.
 
 Corrected data types for accurate calculations.
+
 
 Data Analysis
 
@@ -72,6 +77,7 @@ Top Customers
 
 Best Performing Regions
 
+
 Tools Used
 
 Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
@@ -80,6 +86,7 @@ Data Analysis ToolPak
 
 Excel Formulas for automated calculations
 
+
 Insights Gained
 
 Identified peak sales periods and seasonal trends.
@@ -87,6 +94,7 @@ Identified peak sales periods and seasonal trends.
 Found top-performing products and regions.
 
 Discovered customer buying patterns for targeted marketing.
+
 
 How to Use
 
@@ -97,6 +105,7 @@ Open the file in Microsoft Excel.
 Check out the Dashboard for a visual overview of insights.
 
 Use Pivot Tables to explore specific details and trends.
+
 
 Future Improvements
 
